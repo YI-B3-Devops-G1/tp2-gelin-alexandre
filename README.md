@@ -1,9 +1,10 @@
 # tp2-gelin-alexandre
 # B3 Devops - TP 2
 
-##Infos
+## Infos
 
 mail: alexandre.gelin@ynov.com
+
 github_username: AexandreGelin
 
 ## Start project
