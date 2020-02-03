@@ -24,7 +24,7 @@ Executer la commande :
 docker-compose up
 ```
 
-Se rendre ensuite sur un navigateur we a l'adresse :
+Se rendre ensuite sur un navigateur web a l'adresse :
 
 ```
 localhost:8080
